@@ -1,30 +1,23 @@
 version: '3.8'
 services:
-  mariadb:
-    image: mariadb:5.5
-    container_name: mariadb-container
+  app:
+    build: .
     ports:
-      - "3306:3306"
+      - "3000:3000"
+    depends_on:
+      - db
+    environment:
+      - DB_HOST=db
+      - DB_PORT=3306
+      - DB_USER=test
+      - DB_PASSWORD=test
+      - DB_NAME=test
+  db:
+    image: mariadb:5.5
     environment:
       MYSQL_ROOT_PASSWORD: test
       MYSQL_DATABASE: test
       MYSQL_USER: test
       MYSQL_PASSWORD: test
-    networks:
-      - app-network
-
-  app:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    container_name: app-container
     ports:
-      - "3000:3000"
-    networks:
-      - app-network
-    depends_on:
-      - mariadb
-
-networks:
-  app-network:
-    driver: bridge
+      - "3306:3306"

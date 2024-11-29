@@ -1,20 +1,22 @@
-# Use uma imagem base para Node.js
-FROM node:14
+# Use uma imagem base com Node.js
+FROM node:16
 
-# Crie e defina o diretório de trabalho
+# Define o diretório de trabalho no container
 WORKDIR /usr/src/app
 
-# Copie os arquivos de dependências
-COPY package*.json ./
-
-# Instale as dependências
-RUN npm install
-
-# Copie o restante dos arquivos da aplicação
+# Copia o código da aplicação para o container
 COPY . .
 
-# Exponha a porta 3000
+# Instala as dependências
+RUN yarn install
+RUN yarn typeorm migration:run
+
+
+# Roda os testes
+RUN yarn test
+
+# Expõe a porta 3000
 EXPOSE 3000
 
-# Comando para rodar a aplicação
-CMD ["npm", "start"]
+# Comando para iniciar a aplicação
+CMD ["yarn", "start"]
