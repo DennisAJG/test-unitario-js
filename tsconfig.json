@@ -1,13 +1,16 @@
 {
     "version": "2.4.2",
     "compilerOptions": {
-        "lib": ["es5", "es6", "esnext.asynciterable"],
-        "target": "es6",
-        "module": "commonjs",
-        "moduleResolution": "node",
-        "emitDecoratorMetadata": true,
-        "experimentalDecorators": true,
-        "sourceMap": true
+        "lib": ["es5", "es6", "esnext.asynciterable"], // Suporte a recursos do ES6 e iteráveis assíncronos
+        "target": "es6",                               // Alvo para ES6
+        "module": "commonjs",                          // Sistema de módulos compatível com Node.js
+        "moduleResolution": "node",                   // Resolve módulos no estilo Node.js
+        "emitDecoratorMetadata": true,                // Metadados necessários para decorators
+        "experimentalDecorators": true,               // Suporte a decorators
+        "sourceMap": true,                             // Gera mapas de origem para depuração
+        "esModuleInterop": true,                      // Compatibilidade com módulos ES6, como express
+        "strict": true,                               // Ativa verificações rigorosas do TypeScript
+        "skipLibCheck": true
     },
     "exclude": [
         "node_modules"

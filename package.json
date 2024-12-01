@@ -35,14 +35,15 @@
     "typescript": "^5.3.0"
   },
   "dependencies": {
+    "@nestjs/typeorm": "^10.0.2",
     "body-parser": "^1.20.2",
     "express": "^4.18.3",
     "mysql": "^2.18.1",
-    "typeorm": "^0.3.17"
+    "typeorm": "^0.3.20"
   },
   "scripts": {
-    "start": "ts-node-dev src/index.ts",
-    "typeorm": "ts-node-dev ./node_modules/typeorm/cli.js",
-    "test": "jest"
+    "typeorm": "ts-node ./node_modules/typeorm/cli.js --dataSource ./src/data-source.ts",
+    "start": "node ./dist/index.js",
+    "dev": "ts-node-dev ./src/index.ts"
   }
 }

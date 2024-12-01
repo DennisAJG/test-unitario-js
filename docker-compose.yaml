@@ -1,23 +1,31 @@
-version: '3.8'
+version: "3.9"
 services:
   app:
     build: .
+    container_name: test-unitario-js-app
     ports:
       - "3000:3000"
+    volumes:
+      - .:/usr/src/app
+      - /usr/src/app/node_modules
+    env_file:
+      - .env
+    command: >
+      sh -c "
+      yarn install &&
+      yarn add typeorm @nestjs/typeorm &&
+      yarn typeorm migration:run --dataSource ./src/data-source.ts &&
+      yarn start"
     depends_on:
       - db
-    environment:
-      - DB_HOST=db
-      - DB_PORT=3306
-      - DB_USER=test
-      - DB_PASSWORD=test
-      - DB_NAME=test
+
   db:
     image: mariadb:5.5
+    container_name: test-unitario-js-db
+    ports:
+      - "3306:3306"
     environment:
       MYSQL_ROOT_PASSWORD: test
       MYSQL_DATABASE: test
       MYSQL_USER: test
       MYSQL_PASSWORD: test
-    ports:
-      - "3306:3306"
