@@ -1,0 +1,1117 @@
+yarn run v1.22.22
+$ /home/dennis/test/test-unitario-js/node_modules/.bin/tsc
+node_modules/@sinclair/typebox/typebox.d.ts(349,42): error TS1005: '?' expected.
+node_modules/@sinclair/typebox/typebox.d.ts(349,54): error TS1005: '(' expected.
+node_modules/@sinclair/typebox/typebox.d.ts(349,90): error TS1005: ',' expected.
+node_modules/@sinclair/typebox/typebox.d.ts(349,91): error TS1005: ',' expected.
+node_modules/@sinclair/typebox/typebox.d.ts(349,119): error TS1005: ',' expected.
+node_modules/@sinclair/typebox/typebox.d.ts(349,120): error TS1005: ',' expected.
+node_modules/@sinclair/typebox/typebox.d.ts(349,153): error TS1005: ',' expected.
+node_modules/@sinclair/typebox/typebox.d.ts(349,154): error TS1005: ',' expected.
+node_modules/@sinclair/typebox/typebox.d.ts(349,187): error TS1005: ',' expected.
+node_modules/@sinclair/typebox/typebox.d.ts(349,188): error TS1005: ',' expected.
+node_modules/@sinclair/typebox/typebox.d.ts(349,222): error TS1005: ',' expected.
+node_modules/@sinclair/typebox/typebox.d.ts(349,223): error TS1005: ',' expected.
+node_modules/@sinclair/typebox/typebox.d.ts(350,131): error TS1005: ',' expected.
+node_modules/@sinclair/typebox/typebox.d.ts(350,132): error TS1005: ',' expected.
+node_modules/@sinclair/typebox/typebox.d.ts(350,162): error TS1005: '(' expected.
+node_modules/@sinclair/typebox/typebox.d.ts(350,163): error TS1005: ',' expected.
+node_modules/@sinclair/typebox/typebox.d.ts(350,164): error TS1005: ',' expected.
+node_modules/@sinclair/typebox/typebox.d.ts(350,193): error TS1005: ',' expected.
+node_modules/@sinclair/typebox/typebox.d.ts(350,218): error TS1011: An element access expression should take an argument.
+node_modules/@sinclair/typebox/typebox.d.ts(350,220): error TS1109: Expression expected.
+node_modules/@sinclair/typebox/typebox.d.ts(350,226): error TS1109: Expression expected.
+node_modules/@sinclair/typebox/typebox.d.ts(350,254): error TS1005: ',' expected.
+node_modules/@sinclair/typebox/typebox.d.ts(350,255): error TS1005: ',' expected.
+node_modules/@sinclair/typebox/typebox.d.ts(350,285): error TS1005: '(' expected.
+node_modules/@sinclair/typebox/typebox.d.ts(350,286): error TS1005: ',' expected.
+node_modules/@sinclair/typebox/typebox.d.ts(350,287): error TS1005: ',' expected.
+node_modules/@sinclair/typebox/typebox.d.ts(584,47): error TS1005: ',' expected.
+node_modules/@sinclair/typebox/typebox.d.ts(584,60): error TS1005: ',' expected.
+node_modules/@sinclair/typebox/typebox.d.ts(724,1): error TS1160: Unterminated template literal.
+node_modules/@types/babel__traverse/index.d.ts(302,20): error TS1005: ']' expected.
+node_modules/@types/babel__traverse/index.d.ts(302,23): error TS1005: ';' expected.
+node_modules/@types/babel__traverse/index.d.ts(302,32): error TS1005: ';' expected.
+node_modules/@types/babel__traverse/index.d.ts(302,33): error TS1128: Declaration or statement expected.
+node_modules/@types/babel__traverse/index.d.ts(302,34): error TS1128: Declaration or statement expected.
+node_modules/@types/babel__traverse/index.d.ts(302,91): error TS1005: '(' expected.
+node_modules/@types/babel__traverse/index.d.ts(303,5): error TS1128: Declaration or statement expected.
+node_modules/@types/babel__traverse/index.d.ts(304,5): error TS1109: Expression expected.
+node_modules/@types/babel__traverse/index.d.ts(305,21): error TS1005: ']' expected.
+node_modules/@types/babel__traverse/index.d.ts(305,30): error TS1005: ',' expected.
+node_modules/@types/babel__traverse/index.d.ts(305,31): error TS1136: Property assignment expected.
+node_modules/@types/babel__traverse/index.d.ts(305,32): error TS1136: Property assignment expected.
+node_modules/@types/babel__traverse/index.d.ts(305,48): error TS1005: ',' expected.
+node_modules/@types/babel__traverse/index.d.ts(305,60): error TS1109: Expression expected.
+node_modules/@types/babel__traverse/index.d.ts(308,21): error TS1005: ']' expected.
+node_modules/@types/babel__traverse/index.d.ts(308,39): error TS1005: ',' expected.
+node_modules/@types/babel__traverse/index.d.ts(308,40): error TS1136: Property assignment expected.
+node_modules/@types/babel__traverse/index.d.ts(308,41): error TS1136: Property assignment expected.
+node_modules/@types/babel__traverse/index.d.ts(308,74): error TS1005: ',' expected.
+node_modules/@types/babel__traverse/index.d.ts(308,77): error TS1005: ':' expected.
+node_modules/@types/babel__traverse/index.d.ts(308,78): error TS1109: Expression expected.
+node_modules/@types/babel__traverse/index.d.ts(314,11): error TS1005: ']' expected.
+node_modules/@types/babel__traverse/index.d.ts(314,34): error TS1005: ',' expected.
+node_modules/@types/babel__traverse/index.d.ts(314,35): error TS1136: Property assignment expected.
+node_modules/@types/babel__traverse/index.d.ts(314,55): error TS1005: '(' expected.
+node_modules/@types/jest/index.d.ts(477,62): error TS1005: ']' expected.
+node_modules/@types/jest/index.d.ts(477,65): error TS1005: ';' expected.
+node_modules/@types/jest/index.d.ts(477,70): error TS1005: ';' expected.
+node_modules/@types/jest/index.d.ts(477,94): error TS1005: ';' expected.
+node_modules/@types/jest/index.d.ts(477,95): error TS1128: Declaration or statement expected.
+node_modules/@types/jest/index.d.ts(483,50): error TS1005: ']' expected.
+node_modules/@types/jest/index.d.ts(483,53): error TS1005: ';' expected.
+node_modules/@types/jest/index.d.ts(483,58): error TS1005: ';' expected.
+node_modules/@types/jest/index.d.ts(483,101): error TS1005: ';' expected.
+node_modules/@types/jest/index.d.ts(483,102): error TS1128: Declaration or statement expected.
+node_modules/@types/jest/index.d.ts(483,109): error TS1128: Declaration or statement expected.
+node_modules/@types/jest/index.d.ts(487,23): error TS1005: ']' expected.
+node_modules/@types/jest/index.d.ts(487,26): error TS1005: ';' expected.
+node_modules/@types/jest/index.d.ts(487,33): error TS1005: ';' expected.
+node_modules/@types/jest/index.d.ts(487,60): error TS1005: ';' expected.
+node_modules/@types/jest/index.d.ts(487,81): error TS1005: ';' expected.
+node_modules/@types/jest/index.d.ts(487,82): error TS1128: Declaration or statement expected.
+node_modules/@types/jest/index.d.ts(488,5): error TS1128: Declaration or statement expected.
+node_modules/@types/jest/index.d.ts(490,36): error TS1005: ']' expected.
+node_modules/@types/jest/index.d.ts(490,39): error TS1005: ';' expected.
+node_modules/@types/jest/index.d.ts(490,57): error TS1005: ';' expected.
+node_modules/@types/jest/index.d.ts(490,88): error TS1005: ';' expected.
+node_modules/@types/jest/index.d.ts(490,89): error TS1128: Declaration or statement expected.
+node_modules/@types/jest/index.d.ts(491,5): error TS1128: Declaration or statement expected.
+node_modules/@types/jest/index.d.ts(1219,40): error TS1005: ',' expected.
+node_modules/@types/jest/index.d.ts(1219,64): error TS1005: ';' expected.
+node_modules/@types/jest/index.d.ts(1219,66): error TS1109: Expression expected.
+node_modules/@types/jest/index.d.ts(1220,24): error TS1109: Expression expected.
+node_modules/@types/jest/index.d.ts(1221,33): error TS1109: Expression expected.
+node_modules/@types/jest/index.d.ts(1222,11): error TS1005: ';' expected.
+node_modules/@types/jest/index.d.ts(1222,28): error TS1005: ';' expected.
+node_modules/@types/jest/index.d.ts(1222,32): error TS1109: Expression expected.
+node_modules/@types/jest/index.d.ts(1222,44): error TS1005: ';' expected.
+node_modules/@types/jest/index.d.ts(1222,46): error TS1128: Declaration or statement expected.
+node_modules/@types/jest/index.d.ts(1222,55): error TS1005: ';' expected.
+node_modules/@types/jest/index.d.ts(1223,6): error TS1109: Expression expected.
+node_modules/@types/jest/index.d.ts(1247,36): error TS1005: ')' expected.
+node_modules/@types/jest/index.d.ts(1247,60): error TS1005: ';' expected.
+node_modules/@types/jest/index.d.ts(1247,62): error TS1109: Expression expected.
+node_modules/@types/jest/index.d.ts(1247,89): error TS1109: Expression expected.
+node_modules/@types/jest/index.d.ts(1247,93): error TS1005: ';' expected.
+node_modules/@types/jest/index.d.ts(1247,110): error TS1005: ';' expected.
+node_modules/@types/jest/index.d.ts(1248,9): error TS1109: Expression expected.
+node_modules/@types/jest/index.d.ts(1249,5): error TS1128: Declaration or statement expected.
+node_modules/@types/jest/index.d.ts(1249,7): error TS1128: Declaration or statement expected.
+node_modules/@types/jest/index.d.ts(1250,9): error TS1005: '(' expected.
+node_modules/@types/jest/index.d.ts(1250,13): error TS1005: ',' expected.
+node_modules/@types/jest/index.d.ts(1251,9): error TS1005: '(' expected.
+node_modules/@types/jest/index.d.ts(1251,16): error TS1005: ')' expected.
+node_modules/@types/jest/index.d.ts(1553,1): error TS1128: Declaration or statement expected.
+node_modules/@types/yargs/index.d.ts(69,44): error TS1005: ']' expected.
+node_modules/@types/yargs/index.d.ts(69,47): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(69,70): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(69,71): error TS1135: Argument expression expected.
+node_modules/@types/yargs/index.d.ts(69,91): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(70,13): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(70,39): error TS1005: ']' expected.
+node_modules/@types/yargs/index.d.ts(70,55): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(70,59): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(70,78): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(70,79): error TS1135: Argument expression expected.
+node_modules/@types/yargs/index.d.ts(70,99): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(70,100): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(70,101): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(79,32): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(79,37): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(79,52): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(79,54): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(79,56): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(79,108): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(80,31): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(81,16): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(81,31): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(81,33): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(82,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(82,72): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(91,34): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(91,39): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(91,54): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(91,56): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(91,58): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(91,114): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(92,33): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(92,38): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(92,53): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(92,55): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(92,57): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(92,104): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(100,19): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(100,95): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(100,105): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(100,114): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(111,34): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(111,60): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(112,16): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(113,19): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(114,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(114,68): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(115,33): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(115,59): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(116,16): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(117,19): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(118,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(118,59): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(119,60): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(120,20): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(121,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(121,85): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(139,33): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(140,16): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(140,31): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(140,33): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(141,17): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(142,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(142,60): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(143,32): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(144,16): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(144,31): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(144,33): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(145,17): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(146,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(146,51): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(147,62): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(148,17): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(149,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(149,89): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(162,19): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(163,20): error TS1005: ')' expected.
+node_modules/@types/yargs/index.d.ts(163,40): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(163,47): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(164,24): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(165,21): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(165,44): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(166,21): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(166,61): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(166,75): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(166,76): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(167,25): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(167,55): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(168,24): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(169,9): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(169,10): error TS1128: Declaration or statement expected.
+node_modules/@types/yargs/index.d.ts(169,19): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(170,53): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(171,20): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(171,40): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(171,47): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(172,24): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(173,21): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(174,21): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(174,82): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(174,96): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(174,97): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(175,25): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(175,55): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(176,24): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(177,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(177,19): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(178,19): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(179,20): error TS1005: ')' expected.
+node_modules/@types/yargs/index.d.ts(179,40): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(179,47): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(180,24): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(181,19): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(181,40): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(182,9): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(182,10): error TS1128: Declaration or statement expected.
+node_modules/@types/yargs/index.d.ts(182,19): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(183,19): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(184,20): error TS1005: ')' expected.
+node_modules/@types/yargs/index.d.ts(184,40): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(184,47): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(185,23): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(186,21): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(186,44): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(187,21): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(187,61): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(187,75): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(187,76): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(188,25): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(188,55): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(189,24): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(190,9): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(190,10): error TS1128: Declaration or statement expected.
+node_modules/@types/yargs/index.d.ts(190,19): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(191,53): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(192,20): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(192,40): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(192,47): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(193,23): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(194,21): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(195,21): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(195,82): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(195,96): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(195,97): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(196,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(196,19): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(197,19): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(198,20): error TS1005: ')' expected.
+node_modules/@types/yargs/index.d.ts(198,40): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(198,47): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(199,23): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(200,19): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(200,40): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(201,9): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(201,10): error TS1128: Declaration or statement expected.
+node_modules/@types/yargs/index.d.ts(201,19): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(203,19): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(203,32): error TS1005: ')' expected.
+node_modules/@types/yargs/index.d.ts(203,53): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(203,54): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(203,63): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(205,19): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(205,33): error TS1005: ')' expected.
+node_modules/@types/yargs/index.d.ts(205,61): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(205,62): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(205,71): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(209,23): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(209,38): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(209,64): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(209,73): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(221,21): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(221,30): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(222,23): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(222,38): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(222,64): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(222,73): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(223,23): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(223,38): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(223,63): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(223,72): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(224,23): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(224,38): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(224,66): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(224,75): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(225,23): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(225,38): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(225,67): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(225,76): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(226,23): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(226,45): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(226,68): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(226,94): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(226,103): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(227,23): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(227,45): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(227,68): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(227,93): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(227,102): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(228,23): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(228,45): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(228,68): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(228,96): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(228,105): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(229,23): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(229,45): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(229,68): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(229,97): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(229,106): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(241,17): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(241,26): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(243,16): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(243,36): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(243,43): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(244,25): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(245,21): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(246,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(246,19): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(247,19): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(247,39): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(247,46): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(247,56): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(247,89): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(247,98): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(248,43): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(248,52): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(248,61): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(255,22): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(255,37): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(255,57): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(255,64): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(255,66): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(255,75): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(256,28): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(256,36): error TS1005: ']' expected.
+node_modules/@types/yargs/index.d.ts(256,44): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(256,45): error TS1136: Property assignment expected.
+node_modules/@types/yargs/index.d.ts(256,54): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(256,65): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(256,72): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(256,74): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(256,76): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(256,85): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(261,32): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(261,37): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(261,52): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(261,54): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(261,56): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(261,99): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(262,31): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(262,36): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(262,51): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(262,53): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(262,55): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(262,89): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(273,9): error TS1128: Declaration or statement expected.
+node_modules/@types/yargs/index.d.ts(273,34): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(273,42): error TS1005: ')' expected.
+node_modules/@types/yargs/index.d.ts(273,52): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(273,69): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(273,77): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(273,78): error TS1128: Declaration or statement expected.
+node_modules/@types/yargs/index.d.ts(273,116): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(274,9): error TS1128: Declaration or statement expected.
+node_modules/@types/yargs/index.d.ts(274,33): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(274,41): error TS1005: ')' expected.
+node_modules/@types/yargs/index.d.ts(274,51): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(274,68): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(274,76): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(274,77): error TS1128: Declaration or statement expected.
+node_modules/@types/yargs/index.d.ts(274,106): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(275,9): error TS1128: Declaration or statement expected.
+node_modules/@types/yargs/index.d.ts(275,49): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(275,59): error TS1005: ')' expected.
+node_modules/@types/yargs/index.d.ts(275,76): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(275,84): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(275,85): error TS1128: Declaration or statement expected.
+node_modules/@types/yargs/index.d.ts(275,113): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(281,33): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(281,38): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(281,53): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(281,55): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(281,62): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(281,78): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(281,99): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(282,32): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(282,37): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(282,52): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(282,54): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(282,61): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(282,77): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(282,112): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(283,19): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(283,39): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(283,46): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(283,58): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(283,68): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(283,77): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(284,27): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(284,40): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(284,49): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(284,58): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(285,27): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(285,46): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(285,56): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(285,65): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(286,27): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(286,40): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(286,54): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(286,63): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(286,72): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(294,39): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(294,44): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(294,59): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(294,61): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(294,68): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(294,84): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(294,105): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(295,38): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(296,16): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(296,31): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(296,33): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(297,17): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(298,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(298,45): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(299,25): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(299,45): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(299,52): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(299,62): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(299,72): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(299,81): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(305,24): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(305,33): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(306,26): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(306,43): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(306,52): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(306,61): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(307,26): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(307,40): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(307,57): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(307,74): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(307,83): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(307,92): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(312,31): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(312,45): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(312,54): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(312,63): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(319,21): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(319,41): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(319,48): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(319,62): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(319,71): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(319,80): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(320,30): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(320,38): error TS1005: ']' expected.
+node_modules/@types/yargs/index.d.ts(320,46): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(320,47): error TS1136: Property assignment expected.
+node_modules/@types/yargs/index.d.ts(320,58): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(320,67): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(323,28): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(323,38): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(323,47): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(340,14): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(340,23): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(341,19): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(341,28): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(341,37): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(342,19): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(342,29): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(342,38): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(345,19): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(345,28): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(345,37): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(347,21): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(347,30): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(347,39): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(354,24): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(354,45): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(354,54): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(354,63): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(355,24): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(355,58): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(355,59): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(355,68): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(358,18): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(358,31): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(358,39): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(358,45): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(364,28): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(364,38): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(364,47): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(370,18): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(370,81): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(370,90): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(378,17): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(378,28): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(378,35): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(379,17): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(379,78): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(380,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(380,19): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(381,27): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(381,38): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(381,45): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(381,53): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(381,61): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(381,89): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(386,18): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(386,35): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(393,19): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(393,39): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(393,46): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(393,48): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(393,57): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(396,18): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(396,38): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(396,45): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(396,57): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(396,66): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(396,75): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(399,17): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(399,26): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(399,35): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(413,15): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(413,24): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(414,28): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(414,38): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(414,47): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(415,20): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(415,44): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(415,54): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(415,63): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(416,20): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(416,42): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(416,67): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(416,77): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(416,86): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(424,20): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(424,35): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(424,55): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(424,62): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(424,64): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(424,73): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(425,24): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(425,32): error TS1005: ']' expected.
+node_modules/@types/yargs/index.d.ts(425,40): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(425,41): error TS1136: Property assignment expected.
+node_modules/@types/yargs/index.d.ts(425,50): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(425,61): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(425,68): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(425,70): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(425,72): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(425,81): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(432,17): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(437,19): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(437,28): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(437,37): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(445,22): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(445,46): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(445,84): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(446,35): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(447,10): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(447,19): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(454,18): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(454,33): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(454,42): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(454,51): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(455,20): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(455,28): error TS1005: ']' expected.
+node_modules/@types/yargs/index.d.ts(455,36): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(455,37): error TS1136: Property assignment expected.
+node_modules/@types/yargs/index.d.ts(455,48): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(455,57): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(458,36): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(458,41): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(458,56): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(458,58): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(458,60): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(458,113): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(459,35): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(459,40): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(459,55): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(459,57): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(459,59): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(459,105): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(472,33): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(472,38): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(472,53): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(472,55): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(472,57): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(472,110): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(473,32): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(473,37): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(473,52): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(473,54): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(473,56): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(473,102): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(479,29): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(479,52): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(479,53): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(479,62): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(485,33): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(485,52): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(486,16): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(487,20): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(488,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(488,79): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(489,32): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(489,51): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(490,16): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(491,20): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(492,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(492,70): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(493,52): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(494,20): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(495,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(495,70): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(501,34): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(501,53): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(502,16): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(503,20): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(504,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(504,68): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(505,33): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(505,52): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(506,16): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(507,20): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(508,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(508,59): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(509,53): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(509,62): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(509,66): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(509,115): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(517,16): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(518,13): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(518,31): error TS1005: ']' expected.
+node_modules/@types/yargs/index.d.ts(518,47): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(518,51): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(518,70): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(518,71): error TS1135: Argument expression expected.
+node_modules/@types/yargs/index.d.ts(518,91): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(519,13): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(519,39): error TS1005: ']' expected.
+node_modules/@types/yargs/index.d.ts(519,55): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(519,59): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(519,78): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(519,79): error TS1135: Argument expression expected.
+node_modules/@types/yargs/index.d.ts(519,99): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(519,100): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(519,101): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(521,16): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(521,36): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(521,43): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(522,21): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(523,27): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(523,45): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(524,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(525,13): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(525,31): error TS1005: ']' expected.
+node_modules/@types/yargs/index.d.ts(525,47): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(525,51): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(525,70): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(525,71): error TS1135: Argument expression expected.
+node_modules/@types/yargs/index.d.ts(525,91): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(526,13): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(526,39): error TS1005: ']' expected.
+node_modules/@types/yargs/index.d.ts(526,55): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(526,59): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(526,78): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(526,79): error TS1135: Argument expression expected.
+node_modules/@types/yargs/index.d.ts(526,99): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(526,100): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(526,101): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(527,20): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(527,38): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(527,54): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(527,77): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(527,78): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(529,16): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(529,36): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(529,43): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(530,21): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(531,27): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(531,45): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(532,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(532,28): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(532,44): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(532,67): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(532,68): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(533,21): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(533,47): error TS1005: ']' expected.
+node_modules/@types/yargs/index.d.ts(533,63): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(533,67): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(533,86): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(533,87): error TS1135: Argument expression expected.
+node_modules/@types/yargs/index.d.ts(533,107): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(533,108): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(533,109): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(535,16): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(535,36): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(535,43): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(536,21): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(537,27): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(537,45): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(538,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(538,36): error TS1005: ']' expected.
+node_modules/@types/yargs/index.d.ts(538,52): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(538,56): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(538,75): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(538,76): error TS1135: Argument expression expected.
+node_modules/@types/yargs/index.d.ts(538,96): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(538,97): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(538,98): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(548,42): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(548,79): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(548,80): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(548,89): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(554,20): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(554,40): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(554,47): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(554,54): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(554,63): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(554,72): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(560,37): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(560,66): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(561,16): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(562,16): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(563,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(563,68): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(564,36): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(564,65): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(565,16): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(566,16): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(567,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(567,59): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(570,28): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(570,37): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(576,34): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(576,39): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(576,54): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(576,56): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(576,63): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(576,79): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(576,100): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(577,20): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(577,33): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(577,42): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(577,51): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(578,20): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(578,38): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(578,48): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(578,57): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(579,21): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(579,32): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(579,39): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(579,45): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(579,54): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(579,63): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(580,21): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(580,32): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(580,39): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(580,50): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(580,60): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(580,69): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(581,28): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(581,46): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(581,56): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(581,65): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(582,28): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(582,41): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(582,50): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(582,59): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(588,35): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(588,40): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(588,55): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(588,57): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(588,64): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(588,80): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(588,101): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(589,21): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(589,34): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(589,43): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(589,52): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(590,21): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(590,39): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(590,49): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(590,58): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(591,22): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(591,33): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(591,40): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(591,46): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(591,55): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(591,64): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(592,22): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(592,33): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(592,40): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(592,51): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(592,61): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(592,70): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(593,29): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(593,47): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(593,57): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(593,66): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(594,29): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(594,42): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(594,51): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(594,60): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(596,24): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(596,44): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(596,51): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(596,53): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(596,62): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(599,22): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(599,31): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(599,40): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(605,31): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(605,40): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(613,27): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(613,46): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(613,55): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(614,26): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(614,48): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(614,57): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(614,66): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(620,31): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(620,40): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(620,49): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(626,31): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(626,52): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(626,53): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(626,62): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(634,30): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(634,49): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(634,58): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(634,67): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(640,27): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(640,73): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(640,75): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(640,84): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(643,27): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(643,47): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(643,54): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(643,56): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(643,65): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(650,17): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(650,26): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(651,23): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(651,33): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(651,42): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(658,25): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(658,34): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(659,31): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(659,41): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(659,50): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(666,24): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(666,33): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(667,30): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(667,40): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(667,49): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(676,33): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(676,38): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(676,53): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(676,55): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(676,57): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(676,110): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(677,32): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(677,37): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(677,52): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(677,54): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(677,56): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(677,102): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(680,24): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(682,25): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(682,33): error TS1005: ']' expected.
+node_modules/@types/yargs/index.d.ts(682,41): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(682,42): error TS1136: Property assignment expected.
+node_modules/@types/yargs/index.d.ts(682,53): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(682,62): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(689,26): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(689,34): error TS1005: ']' expected.
+node_modules/@types/yargs/index.d.ts(689,42): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(689,43): error TS1136: Property assignment expected.
+node_modules/@types/yargs/index.d.ts(689,54): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(689,63): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(699,22): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(699,31): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(699,40): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(701,20): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(701,40): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(701,47): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(702,24): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(703,21): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(703,49): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(704,21): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(704,61): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(704,75): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(704,76): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(705,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(705,19): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(707,20): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(707,40): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(707,47): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(708,23): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(709,21): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(709,49): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(710,21): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(710,61): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(710,75): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(710,76): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(711,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(711,19): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(712,51): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(713,20): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(713,40): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(713,47): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(714,24): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(715,21): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(716,21): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(716,82): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(716,96): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(716,97): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(717,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(717,19): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(718,51): error TS1005: '?' expected.
+node_modules/@types/yargs/index.d.ts(719,20): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(719,40): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(719,47): error TS1011: An element access expression should take an argument.
+node_modules/@types/yargs/index.d.ts(720,23): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(721,21): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(722,21): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(722,82): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(722,96): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(722,97): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(723,10): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(723,19): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(733,18): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(733,27): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(734,24): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(734,33): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(734,42): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(735,23): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(735,33): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(735,42): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(736,26): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(736,43): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(736,52): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(736,61): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(737,26): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(737,47): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(737,64): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(737,73): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(737,82): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(745,21): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(745,37): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(745,46): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(746,5): error TS1128: Declaration or statement expected.
+node_modules/@types/yargs/index.d.ts(758,57): error TS1005: ']' expected.
+node_modules/@types/yargs/index.d.ts(758,60): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(758,83): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(758,84): error TS1135: Argument expression expected.
+node_modules/@types/yargs/index.d.ts(758,93): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(758,95): error TS1109: Expression expected.
+node_modules/@types/yargs/index.d.ts(760,34): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(762,19): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(764,17): error TS1005: ']' expected.
+node_modules/@types/yargs/index.d.ts(764,25): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(764,26): error TS1136: Property assignment expected.
+node_modules/@types/yargs/index.d.ts(764,35): error TS1005: ',' expected.
+node_modules/@types/yargs/index.d.ts(765,6): error TS1005: ')' expected.
+node_modules/@types/yargs/index.d.ts(890,21): error TS1110: Type expected.
+node_modules/@types/yargs/index.d.ts(890,30): error TS1005: '}' expected.
+node_modules/@types/yargs/index.d.ts(890,31): error TS1128: Declaration or statement expected.
+node_modules/@types/yargs/index.d.ts(890,34): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(890,41): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(890,48): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(890,49): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(890,63): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(890,65): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(890,79): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(895,22): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(895,23): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(895,30): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(895,34): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(895,41): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(895,48): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(895,49): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(895,53): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(895,67): error TS1005: '(' expected.
+node_modules/@types/yargs/index.d.ts(898,80): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(930,33): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(988,76): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(996,79): error TS1005: ';' expected.
+node_modules/@types/yargs/index.d.ts(1037,1): error TS1160: Unterminated template literal.
+node_modules/typeorm/common/PickKeysByType.d.ts(5,19): error TS1005: ']' expected.
+node_modules/typeorm/common/PickKeysByType.d.ts(5,22): error TS1005: ';' expected.
+node_modules/typeorm/common/PickKeysByType.d.ts(5,27): error TS1005: ';' expected.
+node_modules/typeorm/common/PickKeysByType.d.ts(5,48): error TS1005: ';' expected.
+node_modules/typeorm/common/PickKeysByType.d.ts(5,49): error TS1128: Declaration or statement expected.
+node_modules/typeorm/common/PickKeysByType.d.ts(6,1): error TS1128: Declaration or statement expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3331,117): error TS1005: '?' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3331,127): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3331,131): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3331,166): error TS1005: ',' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3331,195): error TS1005: '(' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3549,7): error TS1005: ',' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3550,4): error TS1109: Expression expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3551,2): error TS1109: Expression expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3552,2): error TS1109: Expression expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3553,2): error TS1109: Expression expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3553,4): error TS1109: Expression expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3554,2): error TS1109: Expression expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3555,2): error TS1109: Expression expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3556,2): error TS1109: Expression expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3557,2): error TS1109: Expression expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3558,2): error TS1109: Expression expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3665,102): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3670,9): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3670,10): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3670,26): error TS1128: Declaration or statement expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3670,32): error TS1003: Identifier expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3670,42): error TS1128: Declaration or statement expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3723,36): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3728,36): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3733,36): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3761,33): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(3763,66): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4090,11): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4090,34): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4090,43): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4090,93): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4090,100): error TS1127: Invalid character.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4090,101): error TS1109: Expression expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4090,110): error TS1127: Invalid character.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4090,111): error TS1109: Expression expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4090,120): error TS1011: An element access expression should take an argument.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4091,11): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4091,34): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4091,93): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4091,100): error TS1127: Invalid character.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4091,101): error TS1109: Expression expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4091,110): error TS1127: Invalid character.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4091,111): error TS1109: Expression expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4091,120): error TS1011: An element access expression should take an argument.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4092,11): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4092,34): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4092,45): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4092,67): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4092,93): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4092,100): error TS1127: Invalid character.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4092,101): error TS1109: Expression expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4092,110): error TS1127: Invalid character.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4092,111): error TS1109: Expression expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4092,120): error TS1011: An element access expression should take an argument.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4093,11): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4093,34): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4093,44): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4093,93): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4093,100): error TS1127: Invalid character.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4093,101): error TS1109: Expression expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4093,110): error TS1127: Invalid character.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4093,111): error TS1109: Expression expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4093,123): error TS1011: An element access expression should take an argument.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4094,11): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4094,34): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4094,45): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4094,93): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4095,11): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4095,34): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4095,93): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4331,80): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4350,5): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4350,14): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4351,5): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4351,20): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4376,168): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4376,169): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4376,267): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4376,268): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4376,275): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4376,279): error TS1128: Declaration or statement expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4376,281): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4376,288): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4376,310): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4376,311): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4723,31): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4897,19): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4897,20): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4897,54): error TS1005: '(' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4897,55): error TS1128: Declaration or statement expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4897,58): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4897,136): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4897,137): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4897,144): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4897,148): error TS1128: Declaration or statement expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4897,151): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4899,19): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4899,20): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4899,70): error TS1005: '(' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4899,71): error TS1128: Declaration or statement expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4899,74): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4899,94): error TS1128: Declaration or statement expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(4899,96): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(5153,38): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(5153,48): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(5153,76): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(5158,17): error TS1005: '(' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(5159,6): error TS1005: ',' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(5159,10): error TS1003: Identifier expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(5162,118): error TS1005: ';' expected.
+node_modules/typeorm/driver/mongodb/typings.d.ts(5518,1): error TS1160: Unterminated template literal.
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
