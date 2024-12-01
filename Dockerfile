@@ -1,30 +1,23 @@
-# Use uma imagem oficial do Node.js
+# Usando a imagem Node.js oficial como base
 FROM node:18
 
-# Define o diretório de trabalho no container
-WORKDIR /usr/src/app
+# Define o diretório de trabalho dentro do container
+WORKDIR /app
 
-# Copia os arquivos de dependências
-COPY package.json yarn.lock ./
+# Copia os arquivos do projeto para o container
+COPY . .
 
 # Instala as dependências
 RUN yarn install
 
-# Copia o restante do código do projeto
-COPY . .
+# Compila o projeto
+RUN yarn build
 
-# Compila o TypeScript para JavaScript
-RUN yarn tsc
-
-# Copia apenas os arquivos compilados para a imagem final
-WORKDIR /usr/src/app
-COPY ./dist ./dist
-
-# Define o ambiente como produção
-ENV NODE_ENV=production
-
-# Expõe a porta 3000
+# Expõe a porta usada pela aplicação
 EXPOSE 3000
 
-# Comando para rodar o aplicativo
-CMD ["node", "./dist/index.js"]
+# Comando para rodar os scripts de inicialização do banco e iniciar o app
+CMD yarn typeorm schema:drop -d src/data-source.ts && \
+    yarn typeorm schema:sync -d src/data-source.ts && \
+    yarn test && \
+    yarn start
