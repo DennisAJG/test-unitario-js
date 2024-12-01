@@ -1,7 +1,7 @@
 {
   "name": "typeorm-typescript-express-example",
   "version": "0.0.1",
-  "description": "Example of how to use Express and TypeORM with TypeScript.",
+  "description": "Example how to use Express and TypeORM with TypeScript.",
   "license": "MIT",
   "readmeFilename": "README.md",
   "author": {
@@ -24,26 +24,20 @@
     "typeorm-express-example"
   ],
   "devDependencies": {
-    "@types/body-parser": "^1.19.2",
-    "@types/express": "^4.17.17",
-    "@types/jest": "^29.5.14",
-    "@types/node": "^18.18.3",
-    "jest": "^29.7.0",
-    "supertest": "^7.0.0",
-    "ts-jest": "^29.2.5",
-    "ts-node-dev": "^2.0.0",
-    "typescript": "^5.3.0"
+    "@types/body-parser": "^1.16.8",
+    "@types/express": "^4.11.1",
+    "@types/node": "^9.6.5",
+    "typescript": "^3.3.3333",
+    "ts-node-dev": "^1.1.8"
   },
   "dependencies": {
-    "@nestjs/typeorm": "^10.0.2",
-    "body-parser": "^1.20.2",
-    "express": "^4.18.3",
-    "mysql": "^2.18.1",
-    "typeorm": "^0.3.20"
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mysql": "^2.15.0",
+    "typeorm": "^0.2.0"
   },
   "scripts": {
-    "typeorm": "ts-node ./node_modules/typeorm/cli.js --dataSource ./src/data-source.ts",
-    "start": "node ./dist/index.js",
-    "dev": "ts-node-dev ./src/index.ts"
+    "start": "tsc && node src/index.js",
+    "typeorm": "ts-node-dev ./node_modules/typeorm/cli.js"
   }
 }
