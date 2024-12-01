@@ -1,4 +1,3 @@
-import "reflect-metadata";
 import { DataSource } from "typeorm";
 import { Post } from "./entity/Post";
 import { Category } from "./entity/Category";
@@ -10,9 +9,11 @@ export const AppDataSource = new DataSource({
   username: "test",
   password: "test",
   database: "test",
-  synchronize: true,
+  synchronize: true, // Somente em desenvolvimento
   logging: false,
-  entities: [Post, Category],
-  migrations: ["src/migration/**/*.ts"],
+  entities: [Post, Category], // Certifique-se de incluir todas as entidades
+  migrations: [],
   subscribers: [],
 });
+
+console.log("Entities carregadas:", AppDataSource.options.entities);

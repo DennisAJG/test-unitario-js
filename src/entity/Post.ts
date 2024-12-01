@@ -4,15 +4,15 @@ import { Category } from "./Category";
 @Entity()
 export class Post {
   @PrimaryGeneratedColumn()
-  id: number = 0;
+  id!: number;
 
   @Column()
-  title: string = "";
+  title!: string;
 
   @Column()
-  content: string = "";
+  content!: string;
 
-  @ManyToMany(() => Category, (category: Category) => category.posts)
+  @ManyToMany(() => Category, (category) => category.posts)
   @JoinTable()
-  categories: Category[] = [];
+  categories!: Category[]; // Certifique-se de não inicializar como `= []`
 }

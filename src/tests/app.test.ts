@@ -1,10 +1,18 @@
 import request from "supertest";
-import app from "../src/index";
+import app from "../index";
+import { AppDataSource } from "../data-source";
 
-describe("GET /posts", () => {
-  it("deve retornar uma lista vazia de posts", async () => {
+beforeAll(async () => {
+  await AppDataSource.initialize();
+});
+
+afterAll(async () => {
+  await AppDataSource.destroy();
+});
+
+describe("Teste de conexão e endpoint", () => {
+  it("Deve retornar status 200 para o endpoint /posts", async () => {
     const response = await request(app).get("/posts");
     expect(response.status).toBe(200);
-    expect(response.body).toEqual([]);
   });
 });

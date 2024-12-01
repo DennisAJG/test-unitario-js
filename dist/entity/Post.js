@@ -14,7 +14,6 @@ const typeorm_1 = require("typeorm");
 const Category_1 = require("./Category");
 let Post = class Post {
 };
-exports.Post = Post;
 __decorate([
     (0, typeorm_1.PrimaryGeneratedColumn)(),
     __metadata("design:type", Number)
@@ -32,6 +31,7 @@ __decorate([
     (0, typeorm_1.JoinTable)(),
     __metadata("design:type", Array)
 ], Post.prototype, "categories", void 0);
-exports.Post = Post = __decorate([
+Post = __decorate([
     (0, typeorm_1.Entity)()
 ], Post);
+exports.Post = Post;

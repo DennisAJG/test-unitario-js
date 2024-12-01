@@ -14,7 +14,6 @@ const typeorm_1 = require("typeorm");
 const Post_1 = require("./Post");
 let Category = class Category {
 };
-exports.Category = Category;
 __decorate([
     (0, typeorm_1.PrimaryGeneratedColumn)(),
     __metadata("design:type", Number)
@@ -27,6 +26,7 @@ __decorate([
     (0, typeorm_1.ManyToMany)(() => Post_1.Post, (post) => post.categories),
     __metadata("design:type", Array)
 ], Category.prototype, "posts", void 0);
-exports.Category = Category = __decorate([
+Category = __decorate([
     (0, typeorm_1.Entity)()
 ], Category);
+exports.Category = Category;

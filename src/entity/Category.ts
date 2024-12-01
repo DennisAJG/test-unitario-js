@@ -4,11 +4,11 @@ import { Post } from "./Post";
 @Entity()
 export class Category {
   @PrimaryGeneratedColumn()
-  id: number = 0;
+  id!: number;
 
   @Column()
-  name: string = "";
+  name!: string;
 
-  @ManyToMany(() => Post, (post: Post) => post.categories)
-  posts: Post[] = [];
+  @ManyToMany(() => Post, (post) => post.categories)
+  posts!: Post[]; // Certifique-se de não inicializar como `= []`
 }
