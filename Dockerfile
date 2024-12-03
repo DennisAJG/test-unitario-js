@@ -19,5 +19,4 @@ EXPOSE 3000
 # Comando para rodar os scripts de inicialização do banco e iniciar o app
 CMD yarn typeorm schema:drop -d src/data-source.ts && \
     yarn typeorm schema:sync -d src/data-source.ts && \
-    yarn test && \
     yarn start

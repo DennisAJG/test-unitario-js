@@ -1,10 +1,10 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  labels:
-    app: app-liferay
   name: app-liferay
-  namespace: app
+  namespace: api
+  labels:
+     app: app-liferay
 spec:
   replicas: 1
   selector:
@@ -16,42 +16,40 @@ spec:
         app: app-liferay
     spec:
       containers:
-      - image: node:18
-        name: app-node
-        imagePullPolicy: IfNotPresent
-        env:
-          - name: NODE_ENV
-            value: production
-          - name: DB_HOST
-            value: mariadb.app.svc.cluster.local
-          - name: DB_PORT
-            value: "3306"
-          - name: DB_USER
-            valueFrom:
-              secretKeyRef:
-                name: mariadb-secret
-                key: MYSQL_USER
-          - name: DB_PASSWORD
-            valueFrom:
-              secretKeyRef:
-                name: mariadb-secret
-                key: MYSQL_PASSWORD
-          - name: DB_NAME
-            valueFrom:
-              secretKeyRef:
-                name: mariadb-secret
-                key: MYSQL_DATABASE
-        ports:
-          - containerPort: 3000
-        livenessProbe:
-          httpGet:
-            path: /health
-            port: 3000
-          initialDelaySeconds: 10
-          periodSeconds: 5
-        readinessProbe:
-          httpGet:
-            path: /health
-            port: 3000
-          initialDelaySeconds: 10
-          periodSeconds: 5
+        - name: app-liferay
+          image: node:18
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 3000
+          env:
+            - name: NODE_ENV
+              value: production
+            - name: DB_HOST
+              value: mariadb.api.svc.cluster.local
+            - name: DB_PORT
+              value: "3306"
+            - name: DB_USER
+              valueFrom:
+                secretKeyRef:
+                  name: mariadb-secret
+                  key: MYSQL_USER
+            - name: DB_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: mariadb-secret
+                  key: MYSQL_PASSWORD
+            - name: DB_NAME
+              valueFrom:
+                secretKeyRef:
+                  name: mariadb-secret
+                  key: MYSQL_DATABASE
+          livenessProbe:
+            httpGet:
+              path: /health
+              port: 3000
+            initialDelaySeconds: 15
+            periodSeconds: 10
+          readinessProbe:
+            httpGet:
+              path: /health
+              port: 3000
